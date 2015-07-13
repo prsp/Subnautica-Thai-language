@@ -24,7 +24,7 @@
 	"OptionsDescription": "This options screen is currently a \"work-in-progress.\" Many options are not yet available, and those listed here may not function properly. For now, the Subnautica dev team recommends using the startup widget to change options, which appears each time you run the game from Steam.",
     "OptionsTooltip" : "BEFORE EMBARKING",
 	"DevelopmentVersion": "Development version",
-    "NoBattery" : "ไม่มีแบตเตอร์รี่ในช่องเก็บของ",
+    "NoBattery" : "ไม่มีแบ็ตเตอร์รี่",
 	"GetDevelopmentUpdates": "รับข่าวสารจากผู้พัฒนา",
 	"ViewOnSteam": "ดูบน Steam",
 	"RedeemaKey": "Redeem a Key",
