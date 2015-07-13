@@ -713,14 +713,14 @@
     "LivingAnalysis" : "{0} analyzed.",
 
     // Creature research
-    "ReefbackTissue" : "Cartilaginous Tissue",
-    "Tooltip_ReefbackTissue" : "This strong connective tissue may allow new ways of building strengthened dive suits",
+    "ReefbackTissue" : "เนื้อเยื่อ Cartilaginous",
+    "Tooltip_ReefbackTissue" : "เนื้อเยื่อประสานเหล่านี้อาจเป็นหนทางสู่การสร้างชุดดำน้ำที่แข็งแกร่งกว่าเดิมก็ได้",
 
-    "ReefbackShell" : "Cartilaginous Shell",
-    "Tooltip_ReefbackShell" : "This highly resilient shell cartilage may allow building stronger reinforcing structures",
+    "ReefbackShell" : "เปลือก Cartilaginous",
+    "Tooltip_ReefbackShell" : "This เลือกแข็งความยืนหยุ่นสูงนี้อาจเป็นหนทางสู่การสร้างสิ่งปลูกสร้างที่แข็งแรงคงทนกว่าเดิมก็ได้",
 
-    "ReefbackAdvancedStructure": "Chelonian Structure",
-    "Tooltip_ReefbackAdvancedStructure": "Analyzing the detailed inner workings this advanced shell structure may allow further structural strengthening",
+    "ReefbackAdvancedStructure": "โครงสร้าง Chelonian",
+    "Tooltip_ReefbackAdvancedStructure": "การวิเคราะห์การทำงานภายในของโครงร้างเปลือกแข็งชั้นสูงอย่างละเอียดนี้อาจเป็นหนทางสู่การเสริมความแข็งแกร่งในระดับโครงสร้างได้",
 
     "HullReinforcementModule2": "Shell hull reinforcement module",
     "Tooltip_HullReinforcementModule2": "Hull reinforcement module built using Reefback shell structure",
