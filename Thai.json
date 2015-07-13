@@ -107,7 +107,7 @@
 	"Lead": "ตะกั่ว",
 	"Salt": "เกลือ",
 	"Placeholder": "ตัวยึด",
-    "Glass": "หญ้า",
+    "Glass": "กระจก",
 	"EnameledGlass": "กระจกเคลือบ",
     "Titanium": "ไทเทเนียม",
     "TitaniumIngot": "ก้อนโลหะ ไทเทเนียม",
@@ -214,7 +214,7 @@
 
     // Tech types
     "ShipComputer": "ชิพ คอมพิวเตอร์",
-    "Fins": "ครีบ",
+    "Fins": "ครีบดำน้ำ",
     "RadiationSuit": "ชุดป้องกันรังสี",
     "RadiationHelmet": "หมวกป้องกันรัง",
     "RadiationGloves": "ถุงมือป้องกันรังสี",
@@ -226,7 +226,7 @@
     "Builder": "เครื่องมือสร้าง",
     "Knife": "มีด",
     "Drill": "เครื่องเจาะ",
-    "Flashlight": "Flashlight",
+    "Flashlight": "ไฟฉาย",
     "Beacon": "Beacon",
     "Bleach": "น้ำบริสทุธิ์",
     "CurrentGenerator": "เครื่องกำเนิดไฟฟ้า",
@@ -239,8 +239,8 @@
 
     "Welder": "Welder",
     "SeaGlide": "เครื่องสำรวจทะเล",
-    "Constructor": "สิ่งก่อสร้าง",
-    "UseConstructor": "ใช้ สิ่งก่อสร้าง",
+    "Constructor": "สิ่งก่อสร้างยานพาหนะ",
+    "UseConstructor": "ใช้ สิ่งก่อสร้างยานพาหนะ",
     "Transfuser": "Transfuser",
     "Flare": "พลุไฟ",
     "StasisRifle": "ปืนไรเฟิล สตั้น",
