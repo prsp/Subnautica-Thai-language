@@ -685,8 +685,8 @@
     "WorldArrow_CatchPeeper": "Catch Peeper",
     "WorldArrow_SwimToSurface": "ว่ายน้ำไปข้างบน!",
     "WorldArrow_EnterSeamoth": "เข้าเรือดำน้ำเล็ก",
-    "WorldArrow_BoardCyclops": "Board Cyclops",
-    "WorldArrow_DockSeamoth": "Dock Seamoth",
+    "WorldArrow_BoardCyclops": "ขึ้นเรือดำน้ำ",
+    "WorldArrow_DockSeamoth": "จอดเรือเล็ก",
     "WorldArrow_AttackBleeder": "คลิ๊กขวาเพื่อโจมตี",
 
     // Fragment analyzer
@@ -805,8 +805,8 @@
     "CaveEntrance" : "Possible cave opening",
     "HeatSignature" : "สัญญาณความร้อน",
 
-    "HatchExitBlocked": "Hatch exit is blocked!",
+    "HatchExitBlocked": "ทางออกถูกบล๊อค!",
     "RotateCorridorHint": "Q/E or scroll wheel to rotate",
 
-	"RadiationFixed": "All radiation leaks fixed. Estimated duration of complete dissipation: 3 days.",
+	"RadiationFixed": "การรั่วไหลของรังสีทั้งหมดได้รับการซ่อมแซม ระยะเวลาโดยประมาณของการระบายความสมบูรณ์: 3 วัน.",
 	"RemainingRadiationLeaks": "Remaining leaks"
